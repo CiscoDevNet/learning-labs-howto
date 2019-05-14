@@ -23,16 +23,22 @@
     }
   ],
   "files": [
-    {"title": "What is a Learning Lab?",
+    {"title": "Step 1: What is a Learning Lab?",
      "file": "1.md"},
-    {"title": "Getting Started",
+    {"title": "Step 2: Outline the tutorial and author in Markdown",
      "file": "2.md"},
-    {"title": "BYOD Information and Related Labs",
+    {"title": "Step 3: Organize your files",
      "file": "3.md"},
-    {"title": "Editing the sample-lab.json File",
+    {"title": "Step 4: Store related images, videos, and code samples",
      "file": "4.md"},
-    {"title": "Code Examples and Video Files",
-     "file": "5.md"}
+    {"title": "Step 5: Add Bring Your Own Device (BYOD) information",
+     "file": "5.md"},
+    {"title": "Step 6: Display related Labs",
+     "file": "6.md"},
+    {"title": "Step 7: Create a table of contents",
+     "file": "7.md"},
+    {"title": "Summary",
+     "file": "8.md"}
   ],
   "authors": [
   	{"name": "Adrian Iliesiu", "email": "ailiesiu@cisco.com"}

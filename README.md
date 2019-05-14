@@ -2,7 +2,7 @@
 
 These self-paced interactive tutorials provide instructions for developers to create your own Learning Labs.
 
-We write these labs for display within the [Cisco DevNet Learning Labs system](https://learninglabs.cisco.com).
+We write these labs for display within the [Cisco DevNet Learning Labs system](https://developer.cisco.com/learning).
 
 Contributions are welcome, and we are glad to review changes through pull requests. See [contributing.md](contributing.md) for details.
 
@@ -12,7 +12,7 @@ The goal of these learning labs is to ensure a 'hands-on' learning approach rath
 
 ## About these Learning Labs
 
-These labs teach how to:
+These Labs teach how to:
 * Know what a Cisco DevNet Learning Lab is, and what it covers.
 * Create, format, and organize a Learning Lab.
 
@@ -41,6 +41,8 @@ These learning modules are for public consumption, so you must ensure that you h
 Write your content in Markdown. DevNet staff reviews content according to the [Cisco Style Guide](http://www-author.cisco.com/c/en/us/td/docs/general/style/guide/Latest/stylegd.html). (Link available on Cisco VPN only.)
 
 #### Publishing requirements
+
+If you have a Python developer environment available, you can use the Python cookie-cutter tool to set up all the necessary files for authoring a Learning Lab. See (cookiecutter-devnet-learning-lab)[https://github.com/CiscoDevNet/cookiecutter-devnet-learning-lab]. Otherwise, follow these steps to set up the files.
 
 To create and publish a new lab, take the following steps:
 - Add a new folder under `labs`.
